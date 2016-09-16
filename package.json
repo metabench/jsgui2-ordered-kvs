@@ -1,0 +1,16 @@
+{
+  "name": "jsgui2-ordered-kvs",
+  "main": "ordered-kvs.js",
+  "license" : "MIT",
+  "engines" : { "node" : ">=6.5.0" },
+  "description": "jsgui2 ES6 Ordered Key-Value Store (KVS) class",
+  "author": "James Vickers <james@metabench.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/metabench/jsgui2-ordered-kvs.git"
+  },
+  "version": "0.0.1",
+  "dependencies" : {
+    "jsgui2-doubly-linked-list" : "> 0.0.1"
+  }
+}
